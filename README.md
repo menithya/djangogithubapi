@@ -10,7 +10,7 @@
     
 -open http://localhost:8000/
 
--if you don't django not instaled
+-if you don't have django  installed
 
 -pip install django
   
